@@ -2,6 +2,8 @@
 # Fall Detection
 ## Multi-Scenario Human Fall Detection Based on MediaPipe Pose
 
+# This repositpory is a forked and improved version of a team project. My main work focused on improving the fall detection project for a Computer Vision course project.
+
 This repository implements a **vision-based human fall detection system** using **MediaPipe Pose**. The system detects falls in real-time from RGB videos and classifies fall directions into **forward**, **backward**, **left**, **right**, and **sitting fall**. It is designed to be lightweight, interpretable, and applicable across multiple indoor scenes without wearable sensors.
 
 This project is developed as a **Final Project (Topic 4: Self-Defined Project)** for a computer vision course.
