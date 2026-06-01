@@ -1,6 +1,7 @@
 
 # Fall Detection
 ## Multi-Scenario Human Fall Detection Based on MediaPipe Pose
+## Working from 2025.09 to 2025.12
 
 This repositpory is a forked and improved version of a team project. My main work focused on improving the fall detection project for a Computer Vision course project.
 
